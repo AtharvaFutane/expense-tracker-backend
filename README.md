@@ -1,3 +1,6 @@
+## Expense Tracker Backend
+
+Backend application built using Node.js, Express, and MongoDB.
 # Expense Tracker (MERN)
 
 > Full stack expense tracker
